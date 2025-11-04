@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication" Version="2.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PermissionSystem.Contracts\PermissionSystem.Contracts.csproj" />
+    <ProjectReference Include="..\PermissionSystem.Domain\PermissionSystem.Domain.csproj" />
+    <ProjectReference Include="..\PermissionSystem.Infrastructure\PermissionSystem.Infrastructure.csproj" />
+    <ProjectReference Include="..\PermissionSystem.RealTime\PermissionSystem.RealTime.csproj" />
+  </ItemGroup>
+
+</Project>

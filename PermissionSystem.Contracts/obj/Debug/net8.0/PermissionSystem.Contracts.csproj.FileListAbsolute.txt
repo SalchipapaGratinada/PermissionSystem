@@ -1,0 +1,12 @@
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Contracts\bin\Debug\net8.0\PermissionSystem.Contracts.deps.json
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Contracts\bin\Debug\net8.0\PermissionSystem.Contracts.dll
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Contracts\bin\Debug\net8.0\PermissionSystem.Contracts.pdb
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Contracts\obj\Debug\net8.0\PermissionSystem.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Contracts\obj\Debug\net8.0\PermissionSystem.Contracts.AssemblyInfoInputs.cache
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Contracts\obj\Debug\net8.0\PermissionSystem.Contracts.AssemblyInfo.cs
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Contracts\obj\Debug\net8.0\PermissionSystem.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Contracts\obj\Debug\net8.0\PermissionSystem.Contracts.dll
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Contracts\obj\Debug\net8.0\refint\PermissionSystem.Contracts.dll
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Contracts\obj\Debug\net8.0\PermissionSystem.Contracts.pdb
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Contracts\obj\Debug\net8.0\ref\PermissionSystem.Contracts.dll
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Contracts\obj\Debug\net8.0\PermissionSystem.Contracts.csproj.AssemblyReference.cache

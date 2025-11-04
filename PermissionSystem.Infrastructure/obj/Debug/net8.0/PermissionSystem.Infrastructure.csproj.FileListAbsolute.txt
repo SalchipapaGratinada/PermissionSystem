@@ -1,0 +1,17 @@
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Infrastructure\bin\Debug\net8.0\PermissionSystem.Infrastructure.deps.json
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Infrastructure\bin\Debug\net8.0\PermissionSystem.Infrastructure.runtimeconfig.json
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Infrastructure\bin\Debug\net8.0\PermissionSystem.Infrastructure.dll
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Infrastructure\bin\Debug\net8.0\PermissionSystem.Infrastructure.pdb
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Infrastructure\bin\Debug\net8.0\PermissionSystem.Domain.dll
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Infrastructure\bin\Debug\net8.0\PermissionSystem.Domain.pdb
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Infrastructure\obj\Debug\net8.0\PermissionSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Infrastructure\obj\Debug\net8.0\PermissionSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Infrastructure\obj\Debug\net8.0\PermissionSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Infrastructure\obj\Debug\net8.0\PermissionSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Infrastructure\obj\Debug\net8.0\PermissionSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Infrastructure\obj\Debug\net8.0\Permissi.99E29D50.Up2Date
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Infrastructure\obj\Debug\net8.0\PermissionSystem.Infrastructure.dll
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Infrastructure\obj\Debug\net8.0\refint\PermissionSystem.Infrastructure.dll
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Infrastructure\obj\Debug\net8.0\PermissionSystem.Infrastructure.pdb
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Infrastructure\obj\Debug\net8.0\PermissionSystem.Infrastructure.genruntimeconfig.cache
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Infrastructure\obj\Debug\net8.0\ref\PermissionSystem.Infrastructure.dll

@@ -1,0 +1,12 @@
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Domain\bin\Debug\net8.0\PermissionSystem.Domain.deps.json
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Domain\bin\Debug\net8.0\PermissionSystem.Domain.dll
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Domain\bin\Debug\net8.0\PermissionSystem.Domain.pdb
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Domain\obj\Debug\net8.0\PermissionSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Domain\obj\Debug\net8.0\PermissionSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Domain\obj\Debug\net8.0\PermissionSystem.Domain.AssemblyInfo.cs
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Domain\obj\Debug\net8.0\PermissionSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Domain\obj\Debug\net8.0\PermissionSystem.Domain.dll
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Domain\obj\Debug\net8.0\refint\PermissionSystem.Domain.dll
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Domain\obj\Debug\net8.0\PermissionSystem.Domain.pdb
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Domain\obj\Debug\net8.0\ref\PermissionSystem.Domain.dll
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Domain\obj\Debug\net8.0\PermissionSystem.Domain.csproj.AssemblyReference.cache

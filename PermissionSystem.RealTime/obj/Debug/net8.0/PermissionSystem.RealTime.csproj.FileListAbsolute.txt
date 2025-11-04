@@ -1,0 +1,12 @@
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.RealTime\bin\Debug\net8.0\PermissionSystem.RealTime.deps.json
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.RealTime\bin\Debug\net8.0\PermissionSystem.RealTime.dll
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.RealTime\bin\Debug\net8.0\PermissionSystem.RealTime.pdb
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.RealTime\obj\Debug\net8.0\PermissionSystem.RealTime.csproj.AssemblyReference.cache
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.RealTime\obj\Debug\net8.0\PermissionSystem.RealTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.RealTime\obj\Debug\net8.0\PermissionSystem.RealTime.AssemblyInfoInputs.cache
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.RealTime\obj\Debug\net8.0\PermissionSystem.RealTime.AssemblyInfo.cs
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.RealTime\obj\Debug\net8.0\PermissionSystem.RealTime.csproj.CoreCompileInputs.cache
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.RealTime\obj\Debug\net8.0\PermissionSystem.RealTime.dll
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.RealTime\obj\Debug\net8.0\refint\PermissionSystem.RealTime.dll
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.RealTime\obj\Debug\net8.0\PermissionSystem.RealTime.pdb
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.RealTime\obj\Debug\net8.0\ref\PermissionSystem.RealTime.dll
