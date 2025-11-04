@@ -19,3 +19,4 @@ C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Application\bin\De
 C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Application\bin\Debug\net8.0\PermissionSystem.RealTime.pdb
 C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Application\bin\Debug\net8.0\PermissionSystem.Contracts.dll
 C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Application\bin\Debug\net8.0\PermissionSystem.Contracts.pdb
+C:\Users\invit\Documents\Alfred\repositories\PermissionSystem.Application\obj\Debug\net8.0\PermissionSystem.Application.sourcelink.json
