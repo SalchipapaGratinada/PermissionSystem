@@ -1,0 +1,6 @@
+@PermissionSystem.Api_HostAddress = http://localhost:5221
+
+GET {{PermissionSystem.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
